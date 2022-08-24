@@ -1,8 +1,8 @@
 {
-  "name": "@arm4x/zipswap-sdk",
+  "name": "@arm4x/kibbleswap-sdk",
   "license": "MIT",
   "version": "1.2.0",
-  "description": "🛠 An SDK for building applications on top of zipswap.",
+  "description": "🛠 An SDK for building applications on top of kibbleswap.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Armax/zipswap-sdk.git"
+    "url": "git+https://github.com/Armax/kibbleswap-sdk.git"
   },
   "keywords": [
-    "zipswap",
+    "kibbleswap",
     "ethereum",
-    "optimism"
+    "dogechain"
   ],
   "scripts": {
     "lint": "tsdx lint src test",
@@ -63,9 +63,9 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/Armax/zipswap-sdk/issues"
+    "url": "https://github.com/Armax/kibbleswap-sdk/issues"
   },
-  "homepage": "https://github.com/Armax/zipswap-sdk#readme",
+  "homepage": "https://github.com/Armax/kibbleswap-sdk#readme",
   "directories": {
     "test": "test"
   },
